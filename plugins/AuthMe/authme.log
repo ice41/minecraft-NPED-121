@@ -8,3 +8,13 @@
 [08-06 02:58:58]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
 [08-06 02:58:58]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
 [08-06 02:58:58]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-06 03:03:34]: [INFO] SQLite Setup finished
+[08-06 03:03:35]: [INFO] Hooked into Vault!
+[08-06 03:03:35]: [INFO] Hooked successfully into Essentials
+[08-06 03:03:35]: [INFO] Hooked successfully into Multiverse-Core
+[08-06 03:03:35]: [INFO] Essentials spawn file not found: 'C:\Users\edu_I\OneDrive\Documentos\GitHub\minecraft-NPED-121\plugins\Essentials\spawn.yml'
+[08-06 03:03:35]: [INFO] AuthMe 5.7.0-SNAPSHOT build n.2631 successfully enabled!
+[08-06 03:03:35]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-06 03:03:35]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-06 03:03:35]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-06 03:03:35]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
