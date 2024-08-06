@@ -1,0 +1,297 @@
+This is the book file.
+
+This file format works similar to the info.txt, motd.txt and rules.txt
+
+Place content in here that you would like to be used by books ingame.
+
+You can use this content by using the book:<section> meta option in kits or item spawning.
+
+#Colors
+Minecraft colors:
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&k &kMagic&r   &&l &lBold
+&&m &mStrike&r  &&n &nUline
+&&o &oItalic&r   &&r &rReset
+
+#regras
+&bLivro de Boas-Vindas
+Autor NPED
+Bem Vindo a NPED!
+&2 
+&2 
+&2 Ja mais perca este livro(Entrada para eventos especiais).
+&2 
+&2 
+&2 
+&2 
+&2 
+&bIndice:
+&2-Reservas de area (pag.3-4)
+&2-Criativo (pag.5-6)
+&2-Sistema monetario (pag.7-8)
+&2-Lojas (pag.9-10)
+&2-Trabalhos (pág.11-12)
+&2-Mundos (pag.13)
+&2 
+&2 
+&2 
+&b Reservas de areas para residencia
+&2 
+&2 Encontre uma area desocupada onde queira residir.
+&2 
+&2 Para a reserva da sua area deve requesitar a um mod ou admin.
+&2 
+&2 
+&2 A area defenida por jogador é de 20x20x30altura.
+&2 
+&2 A casas partilhadas soma-se 10 blocos por jogador.
+&2  
+&2 Assim, 3 jogadores que partilham a mesma casa ficam com ((20+10+10)x(20+10+10)x 30altura).
+
+
+&bModo Criativo 
+&2 
+&2Este modo pode ser usado apenas no mapa Criativo
+&2e para tal efeito, tem de ter permissoes de Engenheiro.
+&2 
+&2Tem de concordar com as regras impostas para a alteracao.
+&2 
+&bO inventario do mundo Criativo fica separado dos restantes mundos.
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&bSistema Monetario
+&2 
+&2O nosso servidor conta com sistema economico,
+&2balanceado no qual pode adquirir dinheiro com um emprego e ou
+&2vendendo itens em qualquer loja disponivel.
+&2 
+&2 
+&2Pode vender/comprar a outro jogadores.
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&b Lojas
+&2
+&2 As lojas sao possiveis de criar usando uma Tabuleta e um bau.
+&2 
+&2 Deve colocar a tabuleta perto do bau de itens a distancia minima possivel.
+&2 
+&2 
+&2 
+&2 Na tabuleta deve escrever os seguintes dados:
+
+
+&2 <seu nick>
+&2 <quantidade>
+&2 <>
+&2 B <valor de comprar> : <O valor de compra a outros> S
+&2 <nome do item (ingles)>
+&2 
+&2 
+&b Trabalhos
+&2 Pode ganhar dinheiro trabalhando!
+&2 para ganhar dinheiro apenas tem de empregar usando o comando
+&2 "/jobs list" para visualizar a lista de possiveis empregos
+&2 
+&2 
+&2 
+&2 e em seguida "/jobs join <nome do emprego>"
+&2 para iniciar esse emprego.
+&2 Quando escolhe um trabalho tem de permanecer com 
+&2 o mesmo por isso escolha bem.
+&2 
+&2 
+&2 
+&b Mundos 
+&aCity ( Cidade )
+&dNether ( Submundo )
+&eThe End ( O Fim )
+&4Criativo ( Mapa criativo )
+&3Evento ( Mapa disponivel so em algumas ocasioes )
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+
+
+&2 
+&b https://www.nped.pt
+&2 
+&2 
+
+
+&lPode consultar todo sobre o server no nosso site!
+&bhttps://www.nped.pt
+&bts.nped.pt
+
+#inicio
+&bLivro de Novato
+&2 
+Bem Vindo a NPED!
+&2 
+&2 
+&2 Ja mais perca este livro(Entrada para eventos especiais).
+&2 
+&2 
+&2 
+&2 
+&2 
+&bIndice:
+&2-Reservas de area (pag.3-4)
+&2-Criativo (pag.5-6)
+&2-Sistema monetario (pag.7-8)
+&2-Lojas (pag.9-10)
+&2-Trabalhos (pág.11-12)
+&2-Mundos (pag.13)
+&2 
+&2 
+&2 
+&b Reservas de areas para residencia
+&2 
+&2 Encontre uma area desocupada onde queira residir.
+&2 
+&2 Para a reserva da sua area deve requesitar a um mod ou admin.
+&2 
+&2 
+&2 A area defenida por jogador é de 20x20x30altura.
+&2 
+&2 A casas partilhadas soma-se 10 blocos por jogador.
+&2  
+&2 Assim, 3 jogadores que partilham a mesma casa ficam com ((20+10+10)x(20+10+10)x 30altura).
+
+
+&bModo Criativo 
+&2 
+&2Este modo pode ser usado apenas no mapa Criativo
+&2e para tal efeito, tem de ter permissoes de Engenheiro.
+&2 
+&2Tem de concordar com as regras impostas para a alteracao.
+&2 
+&bO inventario do mundo Criativo fica separado dos restantes mundos.
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&bSistema Monetario
+&2 
+&2O nosso servidor conta com sistema economico,
+&2balanceado no qual pode adquirir dinheiro com um emprego e ou
+&2vendendo itens em qualquer loja disponivel.
+&2 
+&2 
+&2Pode vender/comprar a outro jogadores.
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&b Lojas
+&2
+&2 As lojas sao possiveis de criar usando uma Tabuleta e um bau.
+&2 
+&2 Deve colocar a tabuleta perto do bau de itens a distancia minima possivel.
+&2 
+&2 
+&2 
+&2 Na tabuleta deve escrever os seguintes dados:
+
+
+&2 <seu nick>
+&2 <quantidade>
+&2 <>
+&2 B <valor de comprar> : <O valor de compra a outros> S
+&2 <nome do item (ingles)>
+&2 
+&2 
+&b Trabalhos
+&2 Pode ganhar dinheiro trabalhando!
+&2 para ganhar dinheiro apenas tem de empregar usando o comando
+&2 "/jobs list" para visualizar a lista de possiveis empregos
+&2 
+&2 
+&2 
+&2 e em seguida "/jobs join <nome do emprego>"
+&2 para iniciar esse emprego.
+&2 Quando escolhe um trabalho tem de permanecer com 
+&2 o mesmo por isso escolha bem.
+&2 
+&2 
+&2 
+&b Mundos 
+&aCity ( Cidade )
+&dNether ( Submundo )
+&eThe End ( O Fim )
+&4Criativo ( Mapa criativo )
+&3Evento ( Mapa disponivel so em algumas ocasioes )
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+
+
+&2 
+&b https://www.nped.pt
+&2 
+&2 
+
+
+&lPode consultar todo sobre o server no nosso site!
+&bhttps://www.nped.pt
+&bts.nped.pt
+
+#evento
+&bLivro de evento
+&2 
+Bem Vindo a NPED!
+&2 
+&2 
+&2 Este livro pertence a um evento.
+&2 
+&2 
+&2 
+&2 
+&2 
+&2 
+&bIndice:
+&2-Evento (pag.3-4)
+&2-Premios (pag.5-6)
+&2-Tarefas (pag.7-8)
+&2-Equipas (pag.9-10)
+&2-... (pág.11-12)
+&2-... (pag.13)

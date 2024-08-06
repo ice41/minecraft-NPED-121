@@ -1,0 +1,1 @@
+&d{PLAYER} &fconectou-se de:&a{COUNTRY}&f ao servidor:&b{SERVER}&f
