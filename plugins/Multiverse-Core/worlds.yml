@@ -89,7 +89,7 @@ worlds:
     bedRespawn: 'true'
     worldBlacklist: []
     environment: THE_END
-    seed: '-3910478560494287668'
+    seed: '5338804849031376599'
     generator: 'null'
     playerLimit: '-1'
     allowFlight: 'true'
