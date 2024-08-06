@@ -1,0 +1,107 @@
+# Enable debug messages?
+debug: false
+# Enable/Disable update checker
+updater: true
+# Enable/Disable update notification when joining the server with enough permissions
+update-notification: true
+# Operator status bypasses NoPlugins? (/op)
+# If this is set to false, you cannot be op and must have the permission (noplugin.bypass) to bypass.
+# Otherwise if set to true, you can be op and have the permission specified or not.
+operator-bypass: false
+# Display list messages?
+list-messaging: false
+
+# Remove every command from the command list in-game?
+# This is what you see when you open chat and enter "/" and then press tab.
+clear-command-list: false
+# The list where you remove commands from the command list in-game and the default set of commands blocked.
+removed-commands:
+  - about
+  - ver
+  - '?'
+  - version
+  - pl
+  - plugins
+  - bukkit:pl
+  - bukkit:plugins
+  - bukkit:ver
+  - bukkit:version
+  - bukkit:?
+  - bukkit:about
+  - bukkit:help
+# Enable/Disable String Commands Protection
+string-command-protection: false
+# String command message
+string-command-blocked: "&cThis command has been blocked!"
+# String command list, this list may contain commands that actually do not exist on the server.
+string-commands:
+  - /spigot
+  - /essentials
+  - /pex
+# Enable/Disable console only commands
+console-only-commands: false
+# Console only message
+console-only-message: "&cThis command is console only!"
+# Console only command list
+console-commands:
+  - /op
+  - /deop
+  - /stop
+
+# Block all commands from specific plugins?
+block-plugin-commands: false
+# The list of plugins to block commands from
+# This feature may not work on all plugins due to they register commands differently
+plugins:
+  - WorldEdit
+  - WorldGuard
+##########################
+# General Messages below #
+##########################
+nopermission: You don't have permission to do this!
+# In this messages section you can add more commands to have custom messages!
+# The key has to be what the command is e.g "about: 'your message'" this is not case SenSITive
+messages:
+  plugins: 'Plugins (3): &aNão&f, &aé da sua&f, &aConta'
+  pl: 'Plugins (3): &aNão&f, &aé da sua&f, &aConta'
+  iCanHasBukkit: 'Plugins (3): &aNão&f, &aé da sua&f, &aConta'
+  about: 'Plugins (3): &aNão&f, &aé da sua&f, &aConta'
+  version: 'Plugins (3): &aNão&f, &aé da sua&f, &aConta'
+  ver: 'Plugins (3): &aNão&f, &aé da sua&f, &aConta'
+  '?': 'Plugins (3): &aNão&f, &aé da sua&f, &aConta'
+# This section is for having multiple lines messages!
+# You can add more commands here as well as long they are setup like default:
+#  plugins:
+#    - '&aNão'
+#    - '&aé da sua'
+#    - '&aConta'
+#    - 'More lines? :)'
+list-messages:
+  plugins:
+    - '&aNão'
+    - '&aé da sua'
+    - '&aConta'
+  pl:
+    - '&aNão'
+    - '&aé da sua'
+    - '&aConta'
+  iCanHasBukkit:
+    - '&aNão'
+    - '&aé da sua'
+    - '&aConta'
+  about:
+    - '&aNão'
+    - '&aé da sua'
+    - '&aConta'
+  version:
+    - '&aNão'
+    - '&aé da sua'
+    - '&aConta'
+  ver:
+    - '&aNão'
+    - '&aé da sua'
+    - '&aConta'
+  '?':
+    - '&aNão'
+    - '&aé da sua'
+    - '&aConta'
